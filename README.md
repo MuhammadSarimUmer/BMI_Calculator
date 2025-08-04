@@ -5,6 +5,8 @@ This app lets users enter their height and weight, calculates the BMI, and shows
 
 ---
 
+## Screenshot is in the repo
+
 ## ✨ Features
 ✅ Calculate BMI based on user input  
 ✅ Display BMI rounded to 1 decimal place  
